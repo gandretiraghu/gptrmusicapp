@@ -5,7 +5,7 @@
 <h1 align="center">🎵 GPTR Music</h1>
 
 <p align="center">
-  <b>Redefining the YouTube Music Experience on Android</b><br>
+  <b>Redefining the  Music Experience on Android</b><br>
   <i>High-performance, privacy-focused, and packed with features for people who truly care about their music experience.</i>
 </p>
 
