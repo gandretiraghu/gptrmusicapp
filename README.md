@@ -73,7 +73,15 @@ The app features a revolutionary **Liquid Glass** UI engine that processes album
 
 ## 🎬 Video Demos
 
-> 📹 Check out GPTR Music in action! Open an issue or visit our [Telegram](https://t.me/gptrmusic) for video demos.
+> 📹 Watch GPTR Music in action:
+
+https://github.com/user-attachments/assets/9b8b4904-ab06-4bb2-843b-dedd79b10ad5
+
+https://github.com/user-attachments/assets/9c0b47d8-fa54-4c32-923f-e654fa9ef29f
+
+https://github.com/user-attachments/assets/327c0d2a-4ea5-4bf0-938d-eb0b70e6509f
+
+https://github.com/user-attachments/assets/9d0cefaf-a8d3-441a-8f23-538348644a5c
 
 ---
 
