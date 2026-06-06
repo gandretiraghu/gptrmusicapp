@@ -73,18 +73,15 @@ The app features a revolutionary **Liquid Glass** UI engine that processes album
 
 ## 🎬 Video Demos
 
-<table>
-  <tr>
-    <td align="center"><video src="screenshots/video6132061173710855875.mp4" width="240"></video></td>
-    <td align="center"><video src="screenshots/video6132061173710855876.mp4" width="240"></video></td>
-    <td align="center"><video src="screenshots/video6132061173710855877.mp4" width="240"></video></td>
-  </tr>
-  <tr>
-    <td align="center"><video src="screenshots/video6132061173710855879.mp4" width="240"></video></td>
-    <td align="center"><video src="screenshots/video6132061173710855881.mp4" width="240"></video></td>
-    <td></td>
-  </tr>
-</table>
+https://github.com/gandretiraghu/gptrmusicapp/raw/main/screenshots/video6132061173710855875.mp4
+
+https://github.com/gandretiraghu/gptrmusicapp/raw/main/screenshots/video6132061173710855876.mp4
+
+https://github.com/gandretiraghu/gptrmusicapp/raw/main/screenshots/video6132061173710855877.mp4
+
+https://github.com/gandretiraghu/gptrmusicapp/raw/main/screenshots/video6132061173710855879.mp4
+
+https://github.com/gandretiraghu/gptrmusicapp/raw/main/screenshots/video6132061173710855881.mp4
 
 ---
 
