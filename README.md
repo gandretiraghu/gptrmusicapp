@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="screenshots/app_icon.webp" width="140" alt="RayMusic Logo">
+  <img src="screenshots/app_icon.webp" width="140" alt="GPTR Music Logo">
 </p>
 
-<h1 align="center">🎵 RayMusic</h1>
+<h1 align="center">🎵 GPTR Music</h1>
 
 <p align="center">
   <b>Redefining the YouTube Music Experience on Android</b><br>
@@ -32,11 +32,11 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/RayMusicFree">
-    <img src="https://img.shields.io/badge/Telegram-@RayMusicFree-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  <a href="https://t.me/gptrmusic">
+    <img src="https://img.shields.io/badge/Telegram-@gptrmusic-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://x.com/XaviGsm15">
-    <img src="https://img.shields.io/badge/Twitter-@XaviGsm15-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  <a href="https://x.com/gandretiraghu">
+    <img src="https://img.shields.io/badge/Twitter-@gandretiraghu-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
 </p>
 
@@ -44,11 +44,11 @@
 
 ## 📱 About
 
-**RayMusic** is not just another generic YouTube Music client for Android. It's a custom-built music player developed from scratch for music enthusiasts who value **privacy**, **extreme performance**, and a **stunning visual aesthetic**.
+**GPTR Music** is not just another generic YouTube Music client for Android. It's a custom-built music player developed from scratch for music enthusiasts who value **privacy**, **extreme performance**, and a **stunning visual aesthetic**.
 
 The app features a revolutionary **Liquid Glass** UI engine that processes album artwork in real-time to generate immersive blurs, 1D stretched reflections, and fluid translucent gradients that tint the entire interface. The app chromatically blends with the currently playing song, creating a truly premium atmosphere.
 
-### Why RayMusic?
+### Why GPTR Music?
 
 - 🔒 **Zero Telemetry** — No trackers, no analytics, no data collection
 - ⚡ **Instant Startup** — Intelligent caching eliminates loading screens
@@ -249,7 +249,7 @@ The app features a revolutionary **Liquid Glass** UI engine that processes album
 
 ## 🛡️ Privacy & Security
 
-RayMusic is built with privacy as a core principle:
+GPTR Music is built with privacy as a core principle:
 
 - ✅ **Zero telemetry** — No analytics, no tracking, no data collection
 - ✅ **No third-party SDKs** — No Firebase, no Crashlytics, no ad networks
@@ -332,13 +332,13 @@ RayMusic is built with privacy as a core principle:
 Having issues or want to suggest features?
 
 <p align="center">
-  <a href="https://t.me/RayMusicFree">
+  <a href="https://t.me/gptrmusic">
     <img src="https://img.shields.io/badge/Join%20Telegram-Community-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 
-- 📢 **Telegram:** [@RayMusicFree](https://t.me/RayMusicFree) — Updates, support, and community
-- 🐦 **Twitter/X:** [@XaviGsm15](https://x.com/XaviGsm15) — Follow for announcements
+- 📢 **Telegram:** [@gptrmusic](https://t.me/gptrmusic) — Updates, support, and community
+- 🐦 **Twitter/X:** [@gandretiraghu](https://x.com/gandretiraghu) — Follow for announcements
 - 🐛 **Issues:** [GitHub Issues](https://github.com/gandretiraghu/gptrmusicapp/issues) — Report bugs
 
 ---
@@ -368,5 +368,5 @@ limitations under the License.
 </p>
 
 <p align="center">
-  <i>If you enjoy RayMusic, consider giving us a ⭐ on GitHub!</i>
+  <i>If you enjoy GPTR Music, consider giving us a ⭐ on GitHub!</i>
 </p>
