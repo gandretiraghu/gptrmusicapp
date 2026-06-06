@@ -63,23 +63,28 @@ The app features a revolutionary **Liquid Glass** UI engine that processes album
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="24%" alt="Home">
-  <img src="screenshots/player_detail.png" width="24%" alt="Player Detail">
-  <img src="screenshots/player_detail_2.png" width="24%" alt="Player Detail 2">
-  <img src="screenshots/lyrics.png" width="24%" alt="Lyrics">
+  <img src="screenshots/6132061174170850083.jpg" width="24%" alt="Home">
+  <img src="screenshots/6132061174170850084.jpg" width="24%" alt="Player">
+  <img src="screenshots/6132061174170850085.jpg" width="24%" alt="Lyrics">
+  <img src="screenshots/6132061174170850086.jpg" width="24%" alt="Library">
 </p>
 
-<p align="center">
-  <img src="screenshots/new_releases.png" width="24%" alt="New Releases">
-  <img src="screenshots/playlists.png" width="24%" alt="Playlists">
-  <img src="screenshots/library.png" width="24%" alt="Library">
-  <img src="screenshots/albums.png" width="24%" alt="Albums">
-</p>
+---
 
-<p align="center">
-  <img src="screenshots/queue.png" width="24%" alt="Queue">
-  <img src="screenshots/playlist_page.png" width="24%" alt="Playlist Page">
-</p>
+## 🎬 Video Demos
+
+<table>
+  <tr>
+    <td align="center"><video src="screenshots/video6132061173710855875.mp4" width="240"></video></td>
+    <td align="center"><video src="screenshots/video6132061173710855876.mp4" width="240"></video></td>
+    <td align="center"><video src="screenshots/video6132061173710855877.mp4" width="240"></video></td>
+  </tr>
+  <tr>
+    <td align="center"><video src="screenshots/video6132061173710855879.mp4" width="240"></video></td>
+    <td align="center"><video src="screenshots/video6132061173710855881.mp4" width="240"></video></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
@@ -211,6 +216,10 @@ The app features a revolutionary **Liquid Glass** UI engine that processes album
 | **Smart Fallback** | Active addon → Other addons → YouTube (automatic chain) |
 | **Quality Badge** | Shows current stream format (FLAC/AAC/OPUS/MP3) |
 | **Per-song Caching** | Avoids re-resolution on seek/buffer operations |
+
+> 🔗 **Addon Store:** [gptrmusic-addon.pages.dev](https://gptrmusic-addon.pages.dev/)
+>
+> Available addons include **Qobuz** and **Tidal FLAC** for lossless hi-fi streaming quality.
 
 ### 🎶 Player Screen (Detail)
 | Feature | Description |
