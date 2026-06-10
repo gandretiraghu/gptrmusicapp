@@ -22,7 +22,7 @@
 
 - 🎨 **Liquid Glass UI** — Dynamic translucent interface that adapts to album artwork in real-time
 - 📝 **Synced Lyrics** — Word-by-word synchronized lyrics with multiple providers
-- 🎧 **Hi-Fi Audio** — Support for lossless audio formats via [addon system](https://gptrmusic-addon.pages.dev/) (Qobuz, Tidal FLAC available)
+- 🎧 **Hi-Fi Audio** — Support for lossless audio formats  FLAC available
 - 🎛️ **Professional Equalizer** — 10-band parametric EQ with Dolby & Dirac presets
 - 📊 **Listening Stats** — Track your most played songs and artists
 - 🎤 **Song Recognition** — Identify songs playing around you
