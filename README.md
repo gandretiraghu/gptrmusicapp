@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/app_icon.webp" width="140" alt="GPTR Music Logo">
+  <img src="screenshots/app_icon.png" width="140" alt="GPTR Music Logo">
 </p>
 
 <h1 align="center">🎵 GPTR Music</h1>
@@ -22,7 +22,7 @@
 
 - 🎨 **Liquid Glass UI** — Dynamic translucent interface that adapts to album artwork in real-time
 - 📝 **Synced Lyrics** — Word-by-word synchronized lyrics with multiple providers
-- 🎧 **Hi-Fi Audio** — Support for lossless audio formats via addon system
+- 🎧 **Hi-Fi Audio** — Support for lossless audio formats via [addon system](https://gptrmusic-addon.pages.dev/) (Qobuz, Tidal FLAC available)
 - 🎛️ **Professional Equalizer** — 10-band parametric EQ with Dolby & Dirac presets
 - 📊 **Listening Stats** — Track your most played songs and artists
 - 🎤 **Song Recognition** — Identify songs playing around you
@@ -41,6 +41,18 @@
   <img src="screenshots/6132061174170850085.jpg" width="24%" alt="Lyrics">
   <img src="screenshots/6132061174170850086.jpg" width="24%" alt="Library">
 </p>
+
+---
+
+## 🎬 Video Demos
+
+https://github.com/user-attachments/assets/9b8b4904-ab06-4bb2-843b-dedd79b10ad5
+
+https://github.com/user-attachments/assets/9c0b47d8-fa54-4c32-923f-e654fa9ef29f
+
+https://github.com/user-attachments/assets/327c0d2a-4ea5-4bf0-938d-eb0b70e6509f
+
+https://github.com/user-attachments/assets/9d0cefaf-a8d3-441a-8f23-538348644a5c
 
 ---
 
